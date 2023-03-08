@@ -49,6 +49,19 @@ Lesson 5 - Visualization with Matplotlib and Seaborn
          - Advanced visualizations with Seaborn
          - Tips for customizing and styling charts
          - Plotting images and grids of charts
+         
+Course Project - Exploratory Data Analysis
+         - Find a real-world dataset of your choice online
+         - Use Numpy & Pandas to parse, clean & analyze data
+         - Use Matplotlib & Seaborn to create visualizations
+         - Ask and answer interesting questions about the data
+          
+Lesson 6 - Exploratory Data Analysis - A Case Study
+         - Finding a good real-world dataset for EDA
+         - Data loading, cleaning and preprocessing
+         - Exploratory analysis and visualization
+         - Answering questions and making inferences
+
 
 
 
